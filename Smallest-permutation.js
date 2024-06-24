@@ -16,3 +16,5 @@ The input will always be an integer.
 
 
 // Solution
+
+const minPermutation = n => +[...n+''].sort().join('').replace(/(0+)(.)/, "$2$1")
