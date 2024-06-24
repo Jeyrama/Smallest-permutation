@@ -13,3 +13,6 @@ Examples:
 
 The input will always be an integer.
 */
+
+
+// Solution
